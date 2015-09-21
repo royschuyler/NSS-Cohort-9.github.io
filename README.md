@@ -1,5 +1,11 @@
 # Cohort9Website
 
+##ATTENTION NSS COHORT 9
+
+Each of you only needs to do one thing! Go into the folder labeled _students.
+
+There is a template in there and several examples. Make a file for yourself. Do it now. They need to be done before you go to bed tonight. Tomorrow I will put your pictures in. For now just put nothing or copy one of the example picture paths.
+
 Site is currently hosted at [cohort9.nashvillesoftwareschool.com](http://cohort9.nashvillesoftwareschool.com/)
 
 ##Setup
